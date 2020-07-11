@@ -8,7 +8,7 @@
 A profile 🔎 search engine for accessing my all social media profile in one tap.👨‍💻👩‍. This chrome extension lets you track your profiles on any account in a single click.
 ## 🚀 Screenshot
 
-<img src="images/ss.png" width="600">
+![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss.PNG)
 
 ## 👩‍ Vision
 Getting all your social media profiles under one button click so that you don't have to manually search and do the hassle of searching your profile handles while making your resume, filling job opportunities forms, registering for events, etc.
@@ -18,14 +18,19 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
 
 ## 🤷 Project Structure
     .
-    ├── ...
-    ├── images
-    │── manifest
-    │── popup.html
-    |── popup.js
-    |── README
-    └── ...
-    
+├── ...
+├── images
+    |──icons
+    |──screenshots
+│── manifest
+│── HTML
+    |──edit.html
+    |──popup.html
+|── Javascript
+    |──edit.js
+    |──popup.js
+|── README
+└── ...
 ## 🔆 Tech Stack
 -  HTML
 -  CSS
@@ -43,6 +48,6 @@ Resources to learn Git:
 
 Please read  [CONTRIBUTING.md](CONTRIBUTING.md)  for information on how to contribute to profext-chrome.
 ## 👬 Owner
-a href="https://github.com/anmolkaur18"><img src="https://i.pinimg.com/564x/d6/37/fd/d637fda9c29d54ec422c5832edbc2aa0.jpg" width="100px;" alt=""/><br /><sub><b>Anmol Kaur</b></sub></a><br />
+<a href="https://github.com/anmolkaur18"><img src="https://i.pinimg.com/564x/d6/37/fd/d637fda9c29d54ec422c5832edbc2aa0.jpg" width="100px;"><br><sub><b>Anmol Kaur</b></sub></a><br />
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/anmolkaur18/)
