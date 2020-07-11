@@ -13,11 +13,9 @@ A profile 🔎 search engine for accessing my all social media profile in one ta
 ## 👩‍ Vision
 Getting all your social media profiles under one button click so that you don't have to manually search and do the hassle of searching your profile handles while making your resume, filling job opportunities forms, registering for events, etc.
 
-## ❤️ Inspiration
-This is motivated by [Traversy Media tutorial on Google Chrome Extention](https://www.youtube.com/watch?v=wHZCYi1K664).
 
 ## 🤷 Project Structure
-    .
+
 ├── ...
 ├── images
     |──icons
@@ -30,11 +28,15 @@ This is motivated by [Traversy Media tutorial on Google Chrome Extention](https:
     |──edit.js
     |──popup.js
 |── README
-└── ...
+
+
 ## 🔆 Tech Stack
 -  HTML
 -  CSS
 -  JavaScript
+
+## ❤️ Inspiration
+This is motivated by [Traversy Media tutorial on Google Chrome Extention](https://www.youtube.com/watch?v=wHZCYi1K664).
 
 ## 📝 Learning Resources
 
