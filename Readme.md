@@ -6,13 +6,11 @@
 ![Maintained](https://img.shields.io/maintenance/yes/2020)
 
 A profile 🔎 search engine for accessing my all social media profile in one tap.👨‍💻👩‍. This chrome extension lets you track your profiles on any account in a single click.
-## 🚀 Screenshot
+## 🚀 Screenshots
 
-![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss.PNG)
 ![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss2.PNG)
-
-
-<img scr= images/ss3.png width="400px">
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/anmolkaur18/)
+![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss3.PNG)
 
 
 ## 👩‍ Vision
