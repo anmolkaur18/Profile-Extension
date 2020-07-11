@@ -15,20 +15,21 @@ Getting all your social media profiles under one button click so that you don't 
 
 
 ## 🤷 Project Structure
+    .
+    ├── ...
+    ├── images
+        │── icons
+        │──screenshots
+    │── manifest
+    │── HTML
+        |──edit.html
+        |──popup.html
+    |── Javascript
+         |──edit.js
+         |──popup.js
+    |── README
+    └── ...
 
-...
-├── images
-    |──icons
-    |──screenshots
-│── manifest
-│── HTML
-    |──edit.html
-    |──popup.html
-|── Javascript
-    |──edit.js
-    |──popup.js
-|── README
-...
 
 ## 🔆 Tech Stack
 -  HTML
