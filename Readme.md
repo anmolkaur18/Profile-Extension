@@ -9,6 +9,9 @@ A profile 🔎 search engine for accessing my all social media profile in one ta
 ## 🚀 Screenshot
 
 ![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss.PNG)
+![updated ->](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss2.PNG)
+![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss3.PNG)
+
 
 ## 👩‍ Vision
 Getting all your social media profiles under one button click so that you don't have to manually search and do the hassle of searching your profile handles while making your resume, filling job opportunities forms, registering for events, etc.
