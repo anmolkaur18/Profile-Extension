@@ -16,7 +16,7 @@ Getting all your social media profiles under one button click so that you don't 
 
 ## 🤷 Project Structure
 
-├── ...
+...
 ├── images
     |──icons
     |──screenshots
@@ -28,7 +28,7 @@ Getting all your social media profiles under one button click so that you don't 
     |──edit.js
     |──popup.js
 |── README
-
+...
 
 ## 🔆 Tech Stack
 -  HTML
