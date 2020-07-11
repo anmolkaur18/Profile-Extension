@@ -9,7 +9,9 @@ A profile 🔎 search engine for accessing my all social media profile in one ta
 ## 🚀 Screenshots
 
 ![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss2.PNG)
+<br/>
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/anmolkaur18/)
+<br/>
 ![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss3.PNG)
 
 
