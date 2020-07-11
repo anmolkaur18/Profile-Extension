@@ -10,7 +10,9 @@ A profile 🔎 search engine for accessing my all social media profile in one ta
 
 ![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss.PNG)
 ![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss2.PNG)
-![](https://github.com/anmolkaur18/profileExtension_Chrome/blob/master/images/ss3.PNG)
+
+
+<img scr= images/ss3.png width="400px">
 
 
 ## 👩‍ Vision
